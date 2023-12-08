@@ -22,6 +22,7 @@ const precoGasolina = 6.66;
 const KmPorLitros = 10;
 const distanciaEmKm = 100;
 const tipoCombustivel = 'Gasolina';
+
 const litrosComsumidos = distanciaEmKm / KmPorLitros;
 
 //lógica condicional
